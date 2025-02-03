@@ -127,6 +127,8 @@ This team composition ensures a comprehensive, multidisciplinary approach to the
 
 ***Risk scores are calculated on a scale of 1-10, with 10 being the most severe.***
 
+<a href="https://github.com/dimi901/NIST-Risk-Assessment/blob/main/README.md#table-of-contents">Table of Contents</a>
+
 ## Risk Treatment Recommendations
 
 **1. Phishing Attacks**
