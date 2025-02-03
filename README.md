@@ -1,5 +1,7 @@
 # NIST Risk Assessment
 
+***Disclaimer: This project was a hypothetical exercise and not an official risk assessment conducted for or on behalf of Morgan Stanley. It was created as part of my learning journey to apply cybersecurity risk management principles in a real-world context.***
+
 ## Objective
 
 I completed a Risk Assessment Report for Morgan Stanley as part of a practical assignment, where I gained hands-on experience in identifying, analyzing, and mitigating cybersecurity risks. For this project, I evaluated risks such as phishing attacks, ransomware threats, and third-party vendor breaches, using the NIST SP 800-30 framework to guide the assessment. I developed actionable mitigation strategies, including advanced email filtering, endpoint protection, and multi-factor authentication (MFA), and created detailed action plans for implementation. This project enhanced my ability to conduct comprehensive risk assessments and apply cybersecurity best practices in a real-world financial services context.
