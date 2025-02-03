@@ -15,7 +15,7 @@ I completed a Risk Assessment Report for Morgan Stanley as part of a practical a
 
 ## Table of Contents
 
-- <a href="https://github.com/dimi901/NIST-Risk-Assessment/main/README.md#executive-summary">Executive Summary</a>
+- <a href="https://github.com/dimi901/NIST-Risk-Assessment/blob/main/README.md#executive-summary">Executive Summary</a>
 - <a href="https://github.com/dimi901/NIST-Risk-Assessment/main/README.md#introduction">Introduction</a>
 - <a href="https://github.com/dimi901/NIST-Risk-Assessment/main/README.md#methodology">Methodology</a>
 - <a href="https://github.com/dimi901/NIST-Risk-Assessment/main/README.md#risk-assessment-findings">Risk Assessment Findings</a>
