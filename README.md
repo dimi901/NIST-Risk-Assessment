@@ -48,6 +48,8 @@ This assessment covers the following areas:
 - **Client Data Storage Systems:** Systems that store sensitive client information, including financial data and personal details.
 - **Third-Party Vendor Integrations:** External services and vendors integrated with Morgan Stanley's systems, such as payment processors and data analytics providers.
 
+<a href="https://github.com/dimi901/NIST-Risk-Assessment/blob/main/README.md#table-of-contents">Table of Contents</a>
+
 ## Methodology
 
 ### Approach
@@ -91,6 +93,8 @@ The risk assessment follows a systematic methodology aligned with industry best 
 
 This team composition ensures a comprehensive, multidisciplinary approach to the assessment. The CISO provides executive oversight, the IT Manager offers technical expertise, and the Compliance Officer ensures regulatory adherence. The Application Development Manager identifies code-level vulnerabilities, while the Third-Party Vendor Manager assesses risks from external integrations. This diverse team combines technical, operational, and regulatory perspectives for a thorough and actionable risk evaluation.
 
+<a href="https://github.com/dimi901/NIST-Risk-Assessment/blob/main/README.md#table-of-contents">Table of Contents</a>
+
 ## Risk Assessment Findings
 
 **1. Vulnerability to Phishing Attacks**
@@ -110,6 +114,8 @@ This team composition ensures a comprehensive, multidisciplinary approach to the
 - ***Finding:*** Third-party vendors integrated with Morgan Stanley's systems have weak access controls and insufficient data encryption, increasing the risk of data breaches.
 - ***Impact:*** A breach through a third-party vendor could lead to unauthorized access to client data, resulting in regulatory penalties and loss of client trust.
 - ***Current Controls:*** Basic access controls are in place, but multi-factor authentication (MFA) is not consistently enforced. Data encryption standards for third-party integrations are outdated.
+
+<a href="https://github.com/dimi901/NIST-Risk-Assessment/blob/main/README.md#table-of-contents">Table of Contents</a>
 
 ## Risk Analysis and Evaluation
 
@@ -158,6 +164,8 @@ This team composition ensures a comprehensive, multidisciplinary approach to the
 
 These recommendations enhance Morgan Stanley's security by reducing phishing risks through advanced email filtering and training, mitigating ransomware threats with robust endpoint protection and backups, and securing third-party integrations with MFA and encryption. These measures protect client data, ensure operational continuity, and maintain regulatory compliance, strengthening the company's overall cybersecurity posture.
 
+<a href="https://github.com/dimi901/NIST-Risk-Assessment/blob/main/README.md#table-of-contents">Table of Contents</a>
+
 ## Monitoring and Review
 
 ### Continuous Monitoring
@@ -172,9 +180,13 @@ These recommendations enhance Morgan Stanley's security by reducing phishing ris
 
 The monitoring and review processes ensure that Morgan Stanley maintains a proactive approach to cybersecurity by continuously identifying new risks and assessing the effectiveness of implemented controls. Through tools like Security Information and Event Management (SIEM) systems, regular vulnerability scans, and annual disaster recovery testing, the company can adapt to evolving threats and maintain system resilience. This ongoing process helps safeguard client data, ensure regulatory compliance, and minimize potential disruptions, ultimately supporting long-term operational stability and trust.
 
+<a href="https://github.com/dimi901/NIST-Risk-Assessment/blob/main/README.md#table-of-contents">Table of Contents</a>
+
 ## Conclusion
 
 This risk assessment highlights critical cybersecurity risks facing Morgan Stanley, including phishing attacks, ransomware, and third-party vendor breaches. By implementing the recommended mitigation strategies, Morgan Stanley can enhance its security posture, protect client data, and ensure operational continuity. Continuous monitoring and regular reviews will be essential to adapt to evolving threats and maintain compliance with regulatory requirements.
+
+<a href="https://github.com/dimi901/NIST-Risk-Assessment/blob/main/README.md#table-of-contents">Table of Contents</a>
 
 ## Appendices
 
@@ -195,3 +207,7 @@ This risk assessment highlights critical cybersecurity risks facing Morgan Stanl
 - Disaster recovery and business continuity plans.
 
 **Distribution List:** The report will be distributed to the executive board, IT department, compliance team, and risk management team. Further distribution requires CISO approval.
+
+<a href="https://github.com/dimi901/NIST-Risk-Assessment/blob/main/README.md#table-of-contents">Table of Contents</a>
+
+<a href="https://github.com/dimi901/Cyber-Portfolio"><<Back to Cyber-Portfolio</a>
